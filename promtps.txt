@@ -1,0 +1,23 @@
+ETAPA 1 - Sitio Web Informativo (HTML + CSS)
+
+Promtp 1:
+Necesito como Programador de Front-End, crear una pagina web a la clinica "SaludPlus", la cual lleve un header en la cual a la izquierda se ubique el nombre de la clinica
+ y a la derecha se ubiquen los enlaces de las siguientes secciones de la pagina, Inicio, Especialidades, Medicos, Obras Sociales y Contacto,
+necesito también la sección de Hero, la cual tenga un fondo con degradado de CSS, un Titulo principal y un subtitulo descriptivo,
+ de lo que ofrece nuestra clinica Salud Plus y un boton que al presioanrlo diriga a un archivo llamado turnos.html (lo cual creare posteriormente),
+ luego de esto crear una barra de nav que lleve hacia abajo y hacer un apartado de indicadores de confianza, la cual muestre, cantidad de especialidades, los años de experiencia, pacientes atendidos, mostrar el apartado de especialidades medicas, mostrar 6 especialidades clinicas (Clinica General, Cardiologia, Pediatria, Ginecologia, Traumatologia, Neurologia)
+cada especialidad debe mostrar un mostrar un icono o imagen representativa, nombre y breve descripción
+ y implementar un CSS Grid en este apartado a las diferentes especialidades(adaptado a minimo 3 columnas en pantallas grandes),
+ la sección de medicos, mostrar a 3 medicos profesionales, en la cual cada tarjeta debe incluir: nombre completo, especialidad,
+ breve descripcion, debe llevar un placeholder holder de imagen y un layout con flexbox al apartado de los 3 medicos, evita redundancia y codigo repetido.
+
+ Promtp 2: 
+ Evitar crear archivos que no te he pedido esto va de etapas, por ahora solo necesito el html, css y lo que te pedi y
+ ahora necesito agregar la sección de obras Sociales, con 6 obras sociales acepatadas(OSDE, Swiss Medical, Galeno, IOMA, Medicus, Sancor Salud),
+Presentacion clara con nombre de cada cobertura y agregar el apartado de contacto y el Footer los cuales lleven datos de contacto, dirreción, teléfono,
+ email, horario de atención, Mapa Placeholder ( un div con texto) y el footer con los derechos reservados y nombre del autor, los requisitos del CSS
+ requiero en el apartado de Especialidades que sea de CSS Grid y usar FlexBox para el header y la sección de Medicos,
+ la paleta de colores tiene que ser de manera coherente y profesional, acorde a un sitio web, el sitio debe ser responsive ante pantallas de almenos 1024px de ancho.usar almenos dos diseños de tipografias de Google fonts (solo 2) y si haces el tamaño del Inicio que ocupe
+toda la pantalla al visualizarse y de las demas secciones para que se vea más ordenado.
+
+Promtp 3:
